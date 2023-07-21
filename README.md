@@ -1,3 +1,3 @@
 # portfolio-JK
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-vmkcyu)
+[Vercel link of the project ⚡️]()
