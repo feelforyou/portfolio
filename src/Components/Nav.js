@@ -6,7 +6,7 @@ const Nav = () => {
     <nav className="navbar">
       <h1>
         <a href="#header">
-          JK's Port<span>f</span>olio
+          JK's Port<span className="navbar__spin-f">f</span>olio
         </a>
       </h1>
       <ul>

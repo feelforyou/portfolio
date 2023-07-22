@@ -149,6 +149,22 @@ textarea {
   color: darkmagenta;
 }
 
+.navbar__spin-f{
+  
+  display: inline-block;
+  animation: spin 3s linear infinite;
+   
+}
+@keyframes spin {
+  0%{
+    transform: rotateY(0deg);
+  }
+  100%{
+    transform: rotateY(360deg);
+  }
+  
+}
+
 .navbar h1 {
   cursor: pointer;
 }
